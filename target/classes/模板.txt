@@ -1,0 +1,15 @@
+{{riqi.DATA}}
+{{beizhu.DATA}}
+天气：{{tianqi.DATA}}
+最低温度：{{low.DATA}} 度
+最高温度：{{high.DATA}} 度
+今天是我们恋爱的第 {{lianai.DATA}} 天
+距离清清的生日还有 {{shengribqq.DATA}} 天
+距离周某人的生日还有 {{shengrizfy.DATA}} 天
+
+{{caihongpi.DATA}}
+{{jinju.DATA}}
+
+今天是宝宝大姨妈的第 {{jingqi.DATA}} 天
+预计距离宝宝下一次大姨妈还有 {{jingqinext.DATA}} 天
+距离我们下一次见面还有 {{jianmian.DATA}} 天，期待我们下一次见面

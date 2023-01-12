@@ -46,11 +46,11 @@ public class JiNianRi {
     }
 
     public static int getShengRiIzj() throws IOException {
-        return before(DataBase.selectJiNianRi("子瑾的生日")) + 1;
+        return before(DataBase.selectJiNianRi("XX的生日")) + 1;
     }
 
     public static int getShengRiIxa() throws IOException {
-        return before(DataBase.selectJiNianRi("轩昂的生日")) + 1;
+        return before(DataBase.selectJiNianRi("XX的生日")) + 1;
     }
 
     public static int getjingQi() throws IOException {
